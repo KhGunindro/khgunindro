@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **.NET and python**
+- 🌱 I’m currently learning **.NET, python and Java**
 
 - 📫 How to reach me **fruitfreak3@gmail.com**
 
