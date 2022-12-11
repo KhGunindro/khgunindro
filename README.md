@@ -3,7 +3,7 @@
 
 
 
-- 🌱 **.NET, python and Java**
+- 🌱 **JavaScript, python and Java**
 
 - 📫 How to reach me **fruitfreak3@gmail.com**
 
