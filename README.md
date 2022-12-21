@@ -3,7 +3,7 @@
 
 
 
-- 🌱 **JavaScript,.NET, Python, Rust and Java**
+- 🌱 **JavaScript,.NET, Python, Julia and Java**
 
 - 📫 How to reach me **fruitfreak3@gmail.com**
 
