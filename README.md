@@ -1,4 +1,4 @@
-<h3 align="center">Active learner</h3>
+<h3 align="center">Math and Algorithms</h3>
 
 
 
