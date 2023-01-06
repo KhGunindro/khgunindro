@@ -2,7 +2,7 @@
 
 
 
-- 🌱 **Python, Julia, Java and .NET **
+- 🌱 **Python, Julia, Java and .NET**
 
 - 🔭 **Currently focusing on Python for Machine Learning**
 
