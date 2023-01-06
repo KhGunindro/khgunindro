@@ -2,7 +2,9 @@
 
 
 
-- 🌱 **JavaScript,.NET, Python, Julia and Java**
+- 🌱 **Python, Julia, Java and .NET **
+
+- 🔭 **Currently focusing on Python for Machine Learning**
 
 - 📫 How to reach me **fruitfreak3@gmail.com**
 
