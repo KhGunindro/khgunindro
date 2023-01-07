@@ -4,7 +4,7 @@
 
 - 🌱 **Python, Julia, Java and .NET**
 
-- 🔭 **Currently focusing on Python for Machine Learning**
+- 🔭 **Currently focusing on Tensorflow with Python for Machine Learning**
 
 - 📫 How to reach me **fruitfreak3@gmail.com**
 
