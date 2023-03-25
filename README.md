@@ -2,7 +2,7 @@
 
 
 
-- 🌱 **Python, Flutter, Java and .NET**
+- 🌱 **Python, Flutter, React, Java and .NET**
 
 - 🔭 **Currently focusing on Tensorflow with Python for Machine Learning**
 
