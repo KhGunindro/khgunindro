@@ -9,6 +9,9 @@
 - 📫 How to reach me **fruitfreak3@gmail.com**
 
 - ⚡ Fun fact **I love lawn tennis**
+<br/>
+<img src="/Github_Banner.png" alt="Banner"/>
+
 
 
 ### Socials:
