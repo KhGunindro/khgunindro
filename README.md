@@ -11,7 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunindro-khuraijam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KGunindro) 
 
 ### GitHub Stats:
-![Gunin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhGunindro&show_icons=true&theme=radical)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KhGunindro&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhGunindro&layout=compact" />
 
 
 
