@@ -1,5 +1,8 @@
 <h3 align="center">Math and Algorithms</h3>
 
+<br/>
+<img src="/Github_Banner.png" alt="Banner"/>
+
 
 
 - 🌱 **Python, Flutter, React, Java and .NET**
@@ -9,10 +12,6 @@
 - 📫 How to reach me **fruitfreak3@gmail.com**
 
 - ⚡ Fun fact **I love lawn tennis**
-<br/>
-<img src="/Github_Banner.png" alt="Banner"/>
-
-
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunindro-khuraijam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KGunindro) 
