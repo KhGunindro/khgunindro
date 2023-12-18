@@ -1,8 +1,3 @@
----
-runme:
-  id: 01HHXTMD1AGXXCNE0XR01WRHJB
-  version: v2.0
----
 
 <h3 align="center">Math and Algorithms</h3>
 
