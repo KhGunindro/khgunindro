@@ -2,8 +2,8 @@
 <h3 align="center">Algorithms through Math</h3>
 
 <br/>
-![Japanese pixeleted](https://github.com/KhGunindro/khgunindro/assets/65593707/295c7a78-df18-4a35-a8d7-e18a34104e6c)
-![Toolsandframework](https://github.com/KhGunindro/khgunindro/assets/65593707/d5664a23-8187-4c3b-9645-264d375b6423)
+<img src="Japanesepixeleted.gif" alt="Banner"/>
+<img style="margin-top:0px" src="Toolsandframework.png" alt="Banner"/>
 
 
 
