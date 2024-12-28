@@ -1,5 +1,5 @@
-<h5 align="center">I build stuff🦀</h5>
-
+<h5 align="center">building stuff🦀</h5>
+<h5 align="center">Algorithms and maths</h5>
 <!--
 **KhGunindro/khgunindro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
