@@ -1,37 +1,38 @@
 <h3 align="center">Algorithms · Systems · Applied AI</h3><p align="center"> <i>"It's not a bug, it's an undocumented feature."</i> </p>
 <!-- Intro layout: chibi LEFT, boxed intro RIGHT (using simple markdown) --><table width="100%"> <tr> <td width="40%" align="center"> <img src="chibi.gif" alt="coding vibe" width="100%" style="max-width:280px;" /> </td> <td width="60%">
 
-I am a researcher and an engineer with a strong foundation in mathematics, algorithms, and Linux-based infrastructure.
+- I am a researcher and an engineer with a strong foundation in mathematics, algorithms, and Linux-based infrastructure.
 
-Currently researching medical diagnostics using AI, focusing on reliable, interpretable, and mathematically grounded models.
+- Currently researching medical diagnostics using AI, focusing on reliable, interpretable, and mathematically grounded models.
 
-I value simplicity, correctness, and systems that scale cleanly from theory to production.
+- I value simplicity, correctness, and systems that scale cleanly from theory to production.
 
 </td> </tr> </table>
 <table width="100%"> <tr> <td width="50%">
 Research & Algorithms 🔬
 
-<br>
-Medical diagnostics using machine learning and deep learning
+<br/>
 
-Algorithm design and complexity analysis
+- Medical diagnostics using machine learning and deep learning
 
-Mathematical foundations of neural networks
+- Algorithm design and complexity analysis
 
-Data-driven decision systems with clinical relevance
+- Mathematical foundations of neural networks
+
+- Data-driven decision systems with clinical relevance
 
 </td> <td width="50%">
 Systems & Linux Administration 🖥️
 
-<br>
+<br/>
 
-Linux server administration across openSUSE, Pop!_OS, and Ubuntu
+- Linux server administration across openSUSE, Pop!_OS, and Ubuntu
 
-Shell scripting and system automation
+- Shell scripting and system automation
 
-Containers and reproducible environments
+- Containers and reproducible environments
 
-Performance tuning, monitoring, and security hardening
+- Performance tuning, monitoring, and security hardening
 
 </td> </tr> </table>
 Toolbox 
